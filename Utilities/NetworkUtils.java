@@ -25,10 +25,10 @@ public class NetworkUtils {
     private static String MOVIEDB_BASE_URL = "https://api.themoviedb.org";
 
     //This only shows the first page
-    private static String POPULAR_MOVIES = "3/movie/popular?page=1&language=en-US&api_key=b97894209e7ccf194bb3753807766c01";
+    private static String POPULAR_MOVIES = "3/movie/popular?page=1&language=en-US&api_key=deleted";
 
     //This only shows the first page
-    private static String TOP_RATED_MOVIES = "3/movie/top_rated?page=1&language=en-US&api_key=b97894209e7ccf194bb3753807766c01";
+    private static String TOP_RATED_MOVIES = "3/movie/top_rated?page=1&language=en-US&api_key=deleted";
 
     //base case: http://image.tmdb.org/t/p/image-size/poster_path
     //example: http://image.tmdb.org/t/p/w185//ndlQ2Cuc3cjTL7lTynw6I4boP4S.jpg
